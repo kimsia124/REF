@@ -24,6 +24,11 @@
 - [Serverless 강좌 목록](https://velopert.com/serverless-tutorial)
   - Velopert 님 강좌
 
+#### Database
+
+- [Dbdiagram](https://github.com/kimsia124/REF.git)
+  - 코드 기반 db diagram. 
+
 #### NETWORK
 
 - [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/)
@@ -32,8 +37,9 @@
 
 - [Adele](https://adele.uxpin.com/)
   - Design Systems and Pattern Libraries Repository
-
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
+- [Flexbox Froggy](http://flexboxfroggy.com/#ko)
+  - 게임으로 CSS Flexbox 속성 이해하기.
 
 #### JAVASCRIPT
 
