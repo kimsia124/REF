@@ -1,7 +1,6 @@
 # Reference
 
 
-
 ## DEVELOP
 
 - [Free for developers](https://free-for.dev/#/)
@@ -16,6 +15,7 @@
 
 - [테크니컬 라이팅 컨퍼런스: API the Docs Chicago 2019 방문기](https://engineering.linecorp.com/ko/blog/api-the-docs-chicago-2019-recap/)
   - DocOps 소개, 실천 방법
+<<<<<<< HEAD
 - [Leaning Git Branch](https://learngitbranching.js.org/)
   - 한국어 번역, git branch 쉽게 배우기
 
@@ -26,6 +26,11 @@
 - [Serverless 강좌 목록](https://velopert.com/serverless-tutorial)
   - Velopert 님 강좌
 
+#### Database
+
+- [Dbdiagram](https://github.com/kimsia124/REF.git)
+  - 코드 기반 db diagram. 
+
 #### NETWORK
 
 - [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/)
@@ -35,8 +40,8 @@
 - [Adele](https://adele.uxpin.com/)
   - Design Systems and Pattern Libraries Repository
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
-- [CSS Flexbox Froggy](https://flexboxfroggy.com/#ko)
-  - CSS Flexbox 속성 배우기 게임
+- [Flexbox Froggy](http://flexboxfroggy.com/#ko)
+  - 게임으로 CSS Flexbox 속성 이해하기.
 
 #### JAVASCRIPT
 
@@ -50,12 +55,14 @@
 
 - [Self Hosting a Million-Lines-Per-Second-Parser](https://bjou-lang.org/blog/7-10-2019-self-hosting-a-million-lines-per-second-parser/7-10-2019-self-hosting-a-million-lines-per-second-parser.html)
 - [Deview 2019 발표자료](https://deview.kr/2019/schedule/291)
+<<<<<<< HEAD
 - [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
   - React를 사용하는 정적 웹 배포 툴.
 
 ## DESIGN
 
 - [소리 없이 번지는 도시의 질병 〈빈집〉](http://house.sisain.co.kr/)
+<<<<<<< HEAD
 - [어비 무료 폰트](http://uhbeefont.com/)
 
 ## LIFE
